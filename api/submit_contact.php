@@ -65,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $stmt->execute();
             
             // Send email notification (optional)
-            $to = "info@themespaceinteriors.com";
+            /*$to = "info@themespaceinteriors.com";
             $email_message = "You have received a new message:\n\n";
             $email_message .= "Name: " . $name . "\n";
             $email_message .= "Email: " . $email . "\n";
@@ -73,7 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $email_message .= "Message:\n" . $message . "\n";
             $headers = "From: noreply@themespaceinteriors.com";
             
-            mail($to,  $email_message, $headers);
+            mail($to,  $email_message, $headers);*/
             
             // Success response
             $response['success'] = true;
