@@ -13,7 +13,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php">
-                    <img src="//img/main-logo.png" alt="Themespace Interiors">
+                    <img src="/img/main-logo.png" alt="Themespace Interiors">
                 </a>
             </div>
             <nav class="navbar">
