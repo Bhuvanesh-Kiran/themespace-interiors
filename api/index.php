@@ -83,31 +83,31 @@
             <div class="features-grid">
                 <div class="feature-card">
                     <div class="feature-icon">
-                        <img src="//img/pic1.png" alt="300+ Home Delivered">
+                        <img src="/img/pic1.png" alt="300+ Home Delivered">
                     </div>
                     <h3>300+ Home Delivered</h3>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">
-                        <img src="//img/pic2.png" alt="Flat 10 Years warranty">
+                        <img src="/img/pic2.png" alt="Flat 10 Years warranty">
                     </div>
                     <h3>Flat 10Years warranty</h3>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">
-                        <img src="//img/pic3.png" alt="50+ Inbuilt Designers">
+                        <img src="/img/pic3.png" alt="50+ Inbuilt Designers">
                     </div>
                     <h3>50+ Inbuilt Designers</h3>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">
-                        <img src="//img/days.jpg" alt="45 days">
+                        <img src="/img/days.jpg" alt="45 days">
                     </div>
                     <h3>45 days</h3>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon">
-                        <img src="//img/pic5.png" alt="No Hidden Costs">
+                        <img src="/img/pic5.png" alt="No Hidden Costs">
                     </div>
                     <h3>No Hidden Costs</h3>
                 </div>
