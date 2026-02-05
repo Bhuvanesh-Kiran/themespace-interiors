@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Electrical & Networking - Themespace Interiors</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php">
-                    <img src="img/main-logo.png" alt="Themespace Interiors">
+                    <img src="/img/main-logo.png" alt="Themespace Interiors">
                 </a>
             </div>
             <nav class="navbar">
@@ -52,7 +52,7 @@
         <div class="container">
             <div class="secure-intro">
             <div class="secure-image">
-                <img src="img/elec1.jpg" alt="CCTV Systems">
+                <img src="/img/elec1.jpg" alt="CCTV Systems">
             </div>
             <div class="secure-text">
                 <h2>Electrical & Networking</h2>
@@ -66,13 +66,13 @@
 
         <div class="secure-gallery">
             <div class="gallery-item">
-                <img src="img/elec2.jpg" alt="CCTV Installation">
+                <img src="/img/elec2.jpg" alt="CCTV Installation">
             </div>
             <div class="gallery-item">
-                <img src="img/elec3.jpg" alt="CCTV Camera Setup">
+                <img src="/img/elec3.jpg" alt="CCTV Camera Setup">
             </div>
             <div class="gallery-item">
-                <img src="img/elec4.jpg" alt="Security Monitoring">
+                <img src="/img/elec4.jpg" alt="Security Monitoring">
             </div>
         </div>
             <div class="cta-section">
@@ -87,7 +87,7 @@
     <div class="container">
         <div class="footer-grid">
             <div class="footer-col brand-col">
-                <img src="img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
+                <img src="/img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
                 <div class="social-icons">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -141,6 +141,6 @@
     </div>
 </footer>
 
-    <script src="js/script.js"></script>
+    <script src="/js/script.js"></script>
 </body>
 </html>

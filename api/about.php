@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us - Themespace Interiors</title>
-    <link rel="stylesheet" href="css/style.css?v=1.3">
+    <link rel="stylesheet" href="/css/style.css?v=1.3">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php">
-                    <img src="img/main-logo.png" alt="Themespace Interiors">
+                    <img src="/img/main-logo.png" alt="Themespace Interiors">
                 </a>
             </div>
             <nav class="navbar">
@@ -56,7 +56,7 @@
                     <a href="index.php" class="btn-primary">Get Started</a>
                 </div>
                 <div class="about-image">
-                    <img src="img/about-image.jpeg" alt="About Us">
+                    <img src="/img/about-image.jpeg" alt="About Us">
                 </div>
             </div>
         </div>
@@ -112,31 +112,31 @@
             <h1>Our Gallery</h1>
             <div class="portfolio-grid">
                 <div class="portfolio-card">
-                    <img src="img/kitchen1.jpg" alt="Interior Design 1">
+                    <img src="/img/kitchen1.jpg" alt="Interior Design 1">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/kitchen2.jpg" alt="Interior Design 2">
+                    <img src="/img/kitchen2.jpg" alt="Interior Design 2">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/kitchen3.jpg" alt="Interior Design 3">
+                    <img src="/img/kitchen3.jpg" alt="Interior Design 3">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/interior1.jpg" alt="Interior Design 4">
+                    <img src="/img/interior1.jpg" alt="Interior Design 4">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/interior2.jpg" alt="Interior Design 5">
+                    <img src="/img/interior2.jpg" alt="Interior Design 5">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/interior3.jpg" alt="Interior Design 6">
+                    <img src="/img/interior3.jpg" alt="Interior Design 6">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/wardrobe1.jpg" alt="Interior Design 7">
+                    <img src="/img/wardrobe1.jpg" alt="Interior Design 7">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/wardrobe2.jpg" alt="Interior Design 8">
+                    <img src="/img/wardrobe2.jpg" alt="Interior Design 8">
                 </div>
                 <div class="portfolio-card">
-                    <img src="img/wardrobe3.jpg" alt="Interior Design 9">
+                    <img src="/img/wardrobe3.jpg" alt="Interior Design 9">
                 </div>
             </div>
         </div>
@@ -147,23 +147,23 @@
         <h2>how we do</h2>
         <div class="process-wrapper">
             <div class="process-step">
-                <div class="icon-circle"><img src="img/meet-designer.png" alt=""></div>
+                <div class="icon-circle"><img src="/img/meet-designer.png" alt=""></div>
                 <span>Meet a Designer</span>
             </div>
             <div class="process-step">
-                <div class="icon-circle"><img src="img/book-renovation.png" alt=""></div>
+                <div class="icon-circle"><img src="/img/book-renovation.png" alt=""></div>
                 <span>Book A Renovation</span>
             </div>
             <div class="process-step">
-                <div class="icon-circle"><img src="img/execution.png" alt=""></div>
+                <div class="icon-circle"><img src="/img/execution.png" alt=""></div>
                 <span>Execution begins</span>
             </div>
             <div class="process-step">
-                <div class="icon-circle"><img src="img/final-installation.png" alt=""></div>
+                <div class="icon-circle"><img src="/img/final-installation.png" alt=""></div>
                 <span>Final Installation</span>
             </div>
             <div class="process-step">
-                <div class="icon-circle"><img src="img/move-in.png" alt=""></div>
+                <div class="icon-circle"><img src="/img/move-in.png" alt=""></div>
                 <span>Move In And Enjoy</span>
             </div>
         </div>
@@ -176,7 +176,7 @@
     <div class="container">
         <div class="footer-grid">
             <div class="footer-col brand-col">
-                <img src="img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
+                <img src="/img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
                 <div class="social-icons">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -230,6 +230,6 @@
     </div>
 </footer>
 
-    <script src="js/script.js"></script>
+    <script src="/js/script.js"></script>
 </body>
 </html>

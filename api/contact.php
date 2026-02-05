@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us - Themespace Interiors</title>
-    <link rel="stylesheet" href="css/style.css?v=1.4">
+    <link rel="stylesheet" href="/css/style.css?v=1.4">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="logo">
                 <a href="index.php">
-                    <img src="img/main-logo.png" alt="Themespace Interiors">
+                    <img src="/img/main-logo.png" alt="Themespace Interiors">
                 </a>
             </div>
             <nav class="navbar">
@@ -92,7 +92,7 @@
     <div class="container">
         <div class="footer-grid">
             <div class="footer-col brand-col">
-                <img src="img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
+                <img src="/img/main-logo.png" alt="Themespace Interiors" class="footer-logo">
                 <div class="social-icons">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -146,6 +146,6 @@
     </div>
 </footer>
 
-    <script src="js/script.js"></script>
+    <script src="/js/script.js"></script>
 </body>
 </html>
